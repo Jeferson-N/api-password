@@ -62,7 +62,7 @@ As seguintes regras são aplicadas para validar uma senha:
 Clone o repositório:
 
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Jeferson-N/api-password
 
 cd password
 ```
