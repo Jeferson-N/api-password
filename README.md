@@ -64,7 +64,7 @@ Clone o repositório:
 ```
 git clone https://github.com/Jeferson-N/api-password
 
-cd password
+cd api-password
 ```
 
 Compile e execute a aplicação:
